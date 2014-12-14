@@ -184,3 +184,5 @@ ro.telephony.ril.config=writeaidonly,usevoicetechfordata
 # Vold switchability uncomment second line to swap
 ro.vold.switchablepair=/storage/sdcard0,/storage/sdcard1
 #persist.sys.vold.switchexternal=1
+
+ro.telephony.get_imsi_from_sim=true
